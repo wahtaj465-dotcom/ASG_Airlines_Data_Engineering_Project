@@ -1,0 +1,9 @@
+pandas
+numpy
+openpyxl
+pyarrow
+pyspark
+sqlalchemy
+matplotlib
+jupyter
+ipykernel

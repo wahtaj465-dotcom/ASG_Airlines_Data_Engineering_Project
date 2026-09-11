@@ -1,0 +1,5 @@
+table_name,rows_loaded,columns,missing_values,load_timestamp,status
+flights,1020,7,41,2026-09-10 16:06:25,SUCCESS
+payments,1000,4,78,2026-09-10 16:06:25,SUCCESS
+bookings,1000,9,45,2026-09-10 16:06:25,SUCCESS
+passengers,1039,9,10,2026-09-10 16:06:25,SUCCESS
